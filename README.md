@@ -16,6 +16,12 @@ These tools streamline sustainable design workflows by integrating directly into
 - **Multi-format Outputs**: Excel dashboards, PDF reports, Revit view sheets, and JSON datasets.
 - **Sustainability Focus**: Helps drive reuse strategies and quantify potential CO₂ savings.
 
+## 🧩 UML Classes Diagram
+
+<p align="center">
+  <img src="docs/images/uml_classes_diagram.png" alt="UML Classes Diagram" width="800"/>
+</p>
+
 ## 🛠️ Installation
 
 1. Close Revit before installation.
